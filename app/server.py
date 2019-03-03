@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://www.dropbox.com/s/or7h9gxn3sykasr/export.pkl?raw=1'
+export_file_url = 'https://www.dropbox.com/s/or7h9gxn3sykasr/export.pkl?dl=1'
 export_file_name = 'export.pkl'
 
 classes = ['Parasitized', 'Uninfected']
